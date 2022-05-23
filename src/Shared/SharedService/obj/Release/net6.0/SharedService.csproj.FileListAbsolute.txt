@@ -1,0 +1,12 @@
+D:\Proyectos Angular\test compurent\TestService.API\src\Shared\SharedService\bin\Release\net6.0\SharedService.deps.json
+D:\Proyectos Angular\test compurent\TestService.API\src\Shared\SharedService\bin\Release\net6.0\SharedService.dll
+D:\Proyectos Angular\test compurent\TestService.API\src\Shared\SharedService\bin\Release\net6.0\SharedService.pdb
+D:\Proyectos Angular\test compurent\TestService.API\src\Shared\SharedService\obj\Release\net6.0\SharedService.csproj.AssemblyReference.cache
+D:\Proyectos Angular\test compurent\TestService.API\src\Shared\SharedService\obj\Release\net6.0\SharedService.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proyectos Angular\test compurent\TestService.API\src\Shared\SharedService\obj\Release\net6.0\SharedService.AssemblyInfoInputs.cache
+D:\Proyectos Angular\test compurent\TestService.API\src\Shared\SharedService\obj\Release\net6.0\SharedService.AssemblyInfo.cs
+D:\Proyectos Angular\test compurent\TestService.API\src\Shared\SharedService\obj\Release\net6.0\SharedService.csproj.CoreCompileInputs.cache
+D:\Proyectos Angular\test compurent\TestService.API\src\Shared\SharedService\obj\Release\net6.0\SharedService.dll
+D:\Proyectos Angular\test compurent\TestService.API\src\Shared\SharedService\obj\Release\net6.0\refint\SharedService.dll
+D:\Proyectos Angular\test compurent\TestService.API\src\Shared\SharedService\obj\Release\net6.0\SharedService.pdb
+D:\Proyectos Angular\test compurent\TestService.API\src\Shared\SharedService\obj\Release\net6.0\ref\SharedService.dll

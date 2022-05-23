@@ -1,0 +1,142 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Proyectos Angular\\test compurent\\TestService.API\\src\\Services\\IdentityService\\IdentityService.Host\\IdentityService.Host.csproj": {}
+  },
+  "projects": {
+    "D:\\Proyectos Angular\\test compurent\\TestService.API\\src\\Services\\IdentityService\\IdentityService.Host\\IdentityService.Host.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Proyectos Angular\\test compurent\\TestService.API\\src\\Services\\IdentityService\\IdentityService.Host\\IdentityService.Host.csproj",
+        "projectName": "IdentityService.Host",
+        "projectPath": "D:\\Proyectos Angular\\test compurent\\TestService.API\\src\\Services\\IdentityService\\IdentityService.Host\\IdentityService.Host.csproj",
+        "packagesPath": "C:\\Users\\Lucho\\.nuget\\packages\\",
+        "outputPath": "D:\\Proyectos Angular\\test compurent\\TestService.API\\src\\Services\\IdentityService\\IdentityService.Host\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Lucho\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Proyectos Angular\\test compurent\\TestService.API\\src\\Shared\\SharedService\\SharedService.csproj": {
+                "projectPath": "D:\\Proyectos Angular\\test compurent\\TestService.API\\src\\Shared\\SharedService\\SharedService.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Hellang.Middleware.ProblemDetails": {
+              "target": "Package",
+              "version": "[6.4.2, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "Serilog": {
+              "target": "Package",
+              "version": "[2.11.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Proyectos Angular\\test compurent\\TestService.API\\src\\Shared\\SharedService\\SharedService.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Proyectos Angular\\test compurent\\TestService.API\\src\\Shared\\SharedService\\SharedService.csproj",
+        "projectName": "SharedService",
+        "projectPath": "D:\\Proyectos Angular\\test compurent\\TestService.API\\src\\Shared\\SharedService\\SharedService.csproj",
+        "packagesPath": "C:\\Users\\Lucho\\.nuget\\packages\\",
+        "outputPath": "D:\\Proyectos Angular\\test compurent\\TestService.API\\src\\Shared\\SharedService\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Lucho\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

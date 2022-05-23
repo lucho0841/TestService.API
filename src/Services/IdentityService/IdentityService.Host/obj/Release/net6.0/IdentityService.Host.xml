@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>IdentityService.Host</name>
+    </assembly>
+    <members>
+        <member name="M:IdentityService.Host.Controllers.UsersController.Authenticate(System.Int32,System.String,System.String)">
+            <summary>
+            Auntenficiacion del usuario
+            </summary>
+            <param name="email">correo del usuario a consultar</param>
+            <param name="password">contrasena del usuario a consultar</param>
+            <returns>Authenticate result</returns>
+            <response code="200">Resultado de la autentificacion</response>
+            <response code="400">Error en el proceso</response>
+        </member>
+        <member name="M:IdentityService.Host.Controllers.UsersController.createUser(IdentityService.Host.Models.User)">
+            <summary>
+            Crear usuario
+            </summary>
+            <param name="user">Objeto usuario a consultar</param>
+            <returns>Authenticate result</returns>
+            <response code="200">Resultado de la creacion del usuario</response>
+            <response code="400">Error en el proceso</response>
+        </member>
+        <member name="M:IdentityService.Host.Controllers.UsersController.userExist(System.Int32)">
+            <summary>
+            Validar usuario existente
+            </summary>
+            <param name="userId">id del usuario a consultar</param>
+            <returns>findUser result</returns>
+            <response code="200">Resultado de si existe el usuario</response>
+            <response code="400">Error en el proceso</response>
+        </member>
+    </members>
+</doc>
